@@ -1,0 +1,87 @@
+*{
+    padding:none;
+    margin:none;
+}
+.card{
+    font-style: italic;
+}
+body{
+    background-image:linear-gradient(rgba(41, 4, 4, 0.477), rgba(43, 42, 42, 0.135), rgba(24, 252, 4, 0.267)), url("https://images.pexels.com/photos/20955087/pexels-photo-20955087.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+li:hover{
+    color: rgb(249, 249, 6);
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    padding:12px;
+    list-style: none;
+    gap:2px;
+    color: white;
+    margin-left: auto;
+    width: 30%;
+    font-size:xx-small ;
+}
+header{
+    color: white;
+}
+#camp{
+    color: rgba(186, 125, 12, 0.909);
+    margin-left: auto;
+
+}
+li{
+    color: aliceblue;
+    font-family: sans-serif;
+    
+}
+
+#camp h1,h6{
+    color: rgba(255, 255, 255, 0.776);
+    overflow-wrap: break-word;
+    min-width: 300px;
+    white-space: normal;
+}
+.three{
+  background-color: #ffff00e7;
+  color: rgba(15, 1, 1, 0.689);
+  padding: 9px 15px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  font-size: xx-small;
+   
+}
+.give{
+    font-family:serif ;
+    font-size: x-small;
+}
+h3{
+    color: white;
+}
+#Book{
+    padding-top:50px;
+    display: flex;
+    justify-content:center;
+    justify-content: space-between;
+    font-size: x-small;
+    width: 65%;
+}
+#Book h5{
+    color: rgba(216, 216, 7, 0.881);
+    font-size: x-small;
+}
+#Book h6{
+    color: rgb(31, 2, 2);
+    
+}
+#footer{
+    background-color: rgba(128, 128, 128, 0.546);
+    padding: 15px 15px;
+    text-align: center;
+    font-size: xx-small;
+}
