@@ -75,9 +75,65 @@ h3{
     color: rgba(216, 216, 7, 0.881);
     font-size: x-small;
 }
+#Book p{
+    color: aliceblue;
+}
 #Book h6{
     color: rgb(31, 2, 2);
     
+}
+
+#pitches{
+    display: flex;
+}
+#pitches img{
+    width: 40vh;
+    border-radius: 15px 15px;
+
+}
+#tag{
+    display: flex;
+}
+#tag img{
+    width: 40vh;
+    border-radius: 15px 15px;
+}
+#cabins{
+    display: flex;
+}
+#cabins img{
+    width: 40vh;
+    border-radius: 15px 15px;
+}
+#read{
+    display:flex;
+}
+#read img{
+    width: 40vh;
+    border-radius: 15px 15px;
+}
+#camp h1{
+    font-size: xx-large;
+    
+    
+}
+#story{
+    display: flex;
+    
+}
+#story img{
+    width: 40vh;
+    border-radius:15px ;
+}
+#story h6{
+   font-size: xx-small;
+}
+#brand{
+    display: flex;
+}
+#brand img{
+    width: 40vh;
+    border-radius: 15px 15px;
 }
 #footer{
     background-color: rgba(128, 128, 128, 0.546);
